@@ -1,5 +1,6 @@
 body 
 {
+    background-attachment: #1e1f24;
     color: #333;
     text-align: center;
     font-family: 'Arial';
@@ -17,6 +18,11 @@ body
     margin: 0;
     padding: 0.5em;
 
+}
+
+#cabecera#logo
+{
+    width: 20px
 }
 
 #cabecera #tagline 
