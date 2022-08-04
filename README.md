@@ -5,3 +5,7 @@ Así como lo leíste, este hyperblog fue creado con el único propósito de ayud
 
 > No hay nada más que decir
 > - Yo que sigo sin callarme
+
+## Sección muy importante
+* Esto de hecho no tiene ningún uso
+* Te engañé
