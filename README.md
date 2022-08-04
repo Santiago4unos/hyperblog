@@ -9,3 +9,8 @@ Así como lo leíste, este hyperblog fue creado con el único propósito de ayud
 ## Sección muy importante
 * Esto de hecho no tiene ningún uso
 * Te engañé
+* Te engañé
+* ¿Por qué sigues leyendo?
+* ¿Por qué sigo escribiendo?
+* Pues para probar el cherry-picking
+* Otra línea
